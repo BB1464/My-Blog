@@ -9,7 +9,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: R Studio Instructor, Data Analyst and Agrometeorologist
+subtitle: I am a R Studio Instructor, Data Analyst and Agrometeorologist
 text_align_left: false
 title: Oluwafemi Oyedele
 type: home
