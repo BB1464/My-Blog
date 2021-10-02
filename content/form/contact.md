@@ -2,7 +2,7 @@
 date: "2019-02-25T13:38:41-06:00"
 description: This is for conacting me about speaking engagements, opportunities to work together, or mentorship requests.
 draft: false
-formspree_form_id: id-from-formspree
+email address: oluwafemioyedele908@gmail.com
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
