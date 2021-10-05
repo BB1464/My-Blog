@@ -53,7 +53,7 @@ params:
       url: https://github.com/BB1464
     - icon: facebook-square
       icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
+      url: https://www.facebook.com/home.php
     - icon: instagram
       icon_pack: fab
       url: https://www.instagram.com/explore/tags/apero/
@@ -69,6 +69,9 @@ params:
     - icon: rss
       icon_pack: fas
       url: /blog/index.xml
+    - icon: email
+      icon_pack: fas
+      url: https://mail.google.com/mail/u/0/#inbox
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
